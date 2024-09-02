@@ -1,0 +1,8 @@
+[Cartridge.cpp:52] Reading ROM from path: mario.nes
+[Cartridge.cpp:70] Reading header, it dictates: 
+[Cartridge.cpp:73] 16KB PRG-ROM Banks: 2
+[Cartridge.cpp:81] 8KB CHR-ROM Banks: 1
+[Cartridge.cpp:91] Name Table Mirroring: Vertical
+[Cartridge.cpp:95] Mapper #: 0
+[Cartridge.cpp:98] Extended (CPU) RAM: false
+[Cartridge.cpp:112] ROM is NTSC compatible.
