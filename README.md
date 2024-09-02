@@ -65,6 +65,7 @@ For e.g., on Linux/OS X/FreeBSD:
 ```
 $ git clone https://github.com/amhndu/SimpleNES
 $ cd SimpleNES
+$ sudo apt-get install libsfml-dev
 $ mkdir build/ && cd build/
 $ cmake -DCMAKE_BUILD_TYPE=Release ..
 $ make -j4    #Replace 4 with however many cores you have to spare
